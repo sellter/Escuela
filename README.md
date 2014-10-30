@@ -1,4 +1,0 @@
-Escuela
-=======
-
-Practica escuela
